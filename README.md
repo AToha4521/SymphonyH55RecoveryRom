@@ -15,4 +15,4 @@
 
 ## List Of Recovery
 
-ClockWorkMod Recovery (https://github.com/dortania/OpenCore-Legacy-Patcher/)
+[ClockWorkMod Recovery](https://github.com/2013Windows81/SymphonyH55RecoveryRom/blob/main/H55_150424__recovery_151007-142354.img)
