@@ -23,3 +23,6 @@
 
 ## List Of Custom Rom
 TBA
+
+##Essential Files For H55
+[SuperSU V2.46]() <-- FLASH AT THE RECOVERY!!
