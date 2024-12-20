@@ -13,6 +13,10 @@
 |Operating System |Android KitKat v4.4.2|
 |Battery|2000 mAh Li-ion Battery|
 
+## Device Image
+![1ADo](https://github.com/user-attachments/assets/692c5f9e-eabb-4114-8a3a-7f77dc3c69ee)
+
+
 ## List Of Recovery
 
 [ClockWorkMod Recovery](https://github.com/2013Windows81/SymphonyH55RecoveryRom/blob/main/H55_150424__recovery_151007-142354.img)
