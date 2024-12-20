@@ -25,4 +25,4 @@
 TBA
 
 ##Essential Files For H55
-[SuperSU V2.46]() <-- FLASH AT THE RECOVERY!!
+[SuperSU V2.46](https://github.com/AToha4521/SymphonyH55RecoveryRom/raw/refs/heads/main/UPDATE-SuperSU-v2.46.zip) <-- FLASH AT THE RECOVERY!!
