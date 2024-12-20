@@ -16,6 +16,15 @@
 ## Device Image
 ![1ADo](https://github.com/user-attachments/assets/692c5f9e-eabb-4114-8a3a-7f77dc3c69ee)
 
+## List of Stock Firmware
+
+[Firmware V10.0](https://androidfilehost.com/?fid=1395089523397889379)
+
+[Firmware V12.0](https://androidfilehost.com/?fid=1395089523397889390)
+
+[Firmware V13.0](https://androidfilehost.com/?fid=1395089523397889396)
+
+use [SP Flash Tool](https://firmwareos.com/wp-content/uploads/SP_Flash_Tool_v6.2216_Win.zip) To Flash the firmware
 
 ## List Of Recovery
 
